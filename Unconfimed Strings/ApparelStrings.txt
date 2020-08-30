@@ -1,0 +1,94 @@
+ティアラ(ニアメーア)
+高貴な者が付けるという冠。
+
+Tiara (Nearmare)
+A crown worn by nobles or royalty.
+
+----
+
+呪装の兜(ニアメーア)
+ニアメーアの戦闘用頭装備、脳に直接感覚強化を施すことでより精確な動きが可能となる。
+
+Enchanted Helmet (Nearmare)
+A helmet that enhances the wearer's senses and provides more accurate movements when in close combat.
+
+----
+
+羽織(ニアメーア)
+か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。
+
+Haori (Nearmare)
+A stab-proof and bulletproof garment for the fragile Nearmare—grants feelings of strength to the normally weak wearer.
+
+----
+
+ショートマント(ニアメーア)
+か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。
+
+Short Mantle (Nearmare)
+A stab-proof and bulletproof garment for the fragile Nearmare—grants feelings of strength to the normally weak wearer.
+
+----
+
+バリアコート(ニアメーア)
+か弱いニアメーア達が防刃防弾として羽織っている。なかなかの強度を持つが何分着ている本人が弱いためあまり実感が持てない。
+
+Barrier Coat (Nearmare)
+A stab-proof and bulletproof garment for the fragile Nearmare—grants feelings of strength to the normally weak wearer.
+
+----
+
+夜魔の呪装(ニアメーア)
+かつてニアメーアの研究をしていた一派が彼女たちの為に作った専用装備、防御力が貧弱な代わりに各感覚が強化され的確な行動が可能となっている。
+
+Cursed Armor (Nearmare)
+A special equipment made for Nearmare, developed in an academy that studies them. It provides poor defense in exchange for heightened sense and mobility.
+
+----
+
+着物(ニアメーア)
+ある伝統的な衣装をニアメーア用にカスタムしたもの、動きが鈍くなるが独特の気品による外交能力向上が期待できる。
+
+Kimono (Nearmare)
+A traditional attire custom-made for Nearmare. It improves social impact for the price of movement speed.
+
+----
+
+巫女服(ニアメーア)
+ある伝統的な衣装をニアメーア用にカスタムしたもの、多少動き難いが温度変化に強く清い印象からか社交力向上も期待できる。
+
+Shrine Maiden Dress (Nearmare)
+A traditional attire custom-made for Nearmare. It is difficult to move in, but improves social impact and is effective in harsh temperatures.
+
+----
+
+一枚布(ニアメーア)
+大きな布を身体に巻き付けたもの、服と呼ぶにはあまりにも原始的過ぎる。
+
+ #Note: this should probably be named as "Piece of Cloth".
+Wrapped Fabric (Nearmare)
+A large cloth wrapped around the body, too primitive to call clothes.
+
+----
+
+ブラウス(ニアメーア)
+外見を気にするニアメーア故愛らしく見えるようアレンジされたブラウス、コストパフォーマンスもよく使いやすいのも特徴。
+
+Blouse (Nearmare)
+A blouse that is arranged to look adorable for the Nearmare that prioritizes appearance.
+
+-----
+
+ライダースーツ(ニアメーア)
+極力無駄な装飾を無くしたスーツ、防御力や温度耐性は低いがその分動きやすい。元々は二輪車に乗る際に着る服であるとされる。
+
+Rider Suit (Nearmare)
+A suit that eliminates useless decoration as much as possible, low defense and temperature resistance, but it is easy to move. Originally, it is said to be the clothes worn when riding a motorcycle.
+
+----
+
+ナース服(ニアメーア)
+医療に携わる女性が着る衣装、なりきることで博愛精神に目覚め戦闘関連の能力が弱体化するが手術関連の能力が向上する。
+
+Nurse Attire (Nearmare)
+The costumes worn by women involved in medical care. It awakens a benevolent spirit that weaken combat-related abilities, but improve surgery-related abilities.

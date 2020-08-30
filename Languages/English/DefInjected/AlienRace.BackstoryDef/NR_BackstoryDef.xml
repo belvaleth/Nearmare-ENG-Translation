@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--■↓幼少期のバックストーリー-->
+	<HAR_NM_Backstory_C1.title>Innocent Childhood</HAR_NM_Backstory_C1.title>
+	<HAR_NM_Backstory_C1.titleShort>Innocent</HAR_NM_Backstory_C1.titleShort>
+	<HAR_NM_Backstory_C1.baseDescription>[PAWN_nameDef] was born to and grew up in an isolated tribe. [PAWN_pronoun] flourished, being unexposed to danger.</HAR_NM_Backstory_C1.baseDescription>
+
+	<HAR_NM_Backstory_C2.title>Adopted in Power</HAR_NM_Backstory_C2.title>
+	<HAR_NM_Backstory_C2.titleShort>Adopted</HAR_NM_Backstory_C2.titleShort>
+	<HAR_NM_Backstory_C2.baseDescription>[PAWN_nameDef]'s birthplace was lost in a war when [PAWN_pronoun] was very young. Luckily, [PAWN_pronoun] was adopted by a powerful person, and learned to thrive amongst nobility.</HAR_NM_Backstory_C2.baseDescription>
+
+	<HAR_NM_Backstory_C3.title>Nomad's Daughter</HAR_NM_Backstory_C3.title>
+	<HAR_NM_Backstory_C3.titleShort>Nomad</HAR_NM_Backstory_C3.titleShort>
+	<HAR_NM_Backstory_C3.baseDescription>[PAWN_nameDef] is the child of a nomadic father and a Nearmare mother. [PAWN_pronoun] grew up surrounded by Mother Nature and learned many of her secrets.</HAR_NM_Backstory_C3.baseDescription>
+
+	<HAR_NM_Backstory_C4.title>Chef's Child</HAR_NM_Backstory_C4.title>
+	<HAR_NM_Backstory_C4.titleShort>Chef</HAR_NM_Backstory_C4.titleShort>
+	<HAR_NM_Backstory_C4.baseDescription>[PAWN_nameDef] is the child of a chef fascinated by the world of cooking. [PAWN_pronoun]'s still an amateur, but can still cook better than the average person.</HAR_NM_Backstory_C4.baseDescription>
+
+	<HAR_NM_Backstory_C5.title>Soldier in Training</HAR_NM_Backstory_C5.title>
+	<HAR_NM_Backstory_C5.titleShort>Soldier</HAR_NM_Backstory_C5.titleShort>
+	<HAR_NM_Backstory_C5.baseDescription>[PAWN_nameDef] trained as a soldier from a very early age. [PAWN_pronoun] can handle both melee and ranged combat to some degree.</HAR_NM_Backstory_C5.baseDescription>
+
+	<HAR_NM_Backstory_C6.title>Small Undergrounder</HAR_NM_Backstory_C6.title>
+	<HAR_NM_Backstory_C6.titleShort>Undergrounder</HAR_NM_Backstory_C6.titleShort>
+	<HAR_NM_Backstory_C6.baseDescription>[PAWN_nameDef] lost their hometown and has lived in a dark cavern ever since. Such a life has taught [PAWN_pronoun] much about mining and construction.</HAR_NM_Backstory_C6.baseDescription>
+
+	<!--■↓成人期のバックストーリー-->
+	<HAR_NM_Backstory_A1.title>Charming Companion</HAR_NM_Backstory_A1.title>
+	<HAR_NM_Backstory_A1.titleShort>Companion</HAR_NM_Backstory_A1.titleShort>
+	<HAR_NM_Backstory_A1.baseDescription>[PAWN_nameDef] is skilled at using their natural charm to manipulate others, but shies from physical conflict.</HAR_NM_Backstory_A1.baseDescription>
+
+	<HAR_NM_Backstory_A2.title>Zealous Architect</HAR_NM_Backstory_A2.title>
+	<HAR_NM_Backstory_A2.titleShort>Architect</HAR_NM_Backstory_A2.titleShort>
+	<HAR_NM_Backstory_A2.baseDescription>[PAWN_nameDef] unexpectedly woke to their talent as an architect. However, a need to impose order leaves [PAWN_pronoun] frustrated by wild animals.</HAR_NM_Backstory_A2.baseDescription>
+
+	<HAR_NM_Backstory_A3.title>Beautiful Archer</HAR_NM_Backstory_A3.title>
+	<HAR_NM_Backstory_A3.titleShort>Archer</HAR_NM_Backstory_A3.titleShort>
+	<HAR_NM_Backstory_A3.baseDescription>[PAWN_nameDef] is skilled at shooting distance targets, whether by bow or gun.</HAR_NM_Backstory_A3.baseDescription>
+
+	<HAR_NM_Backstory_A4.title>Bewitching Warrior</HAR_NM_Backstory_A4.title>
+	<HAR_NM_Backstory_A4.titleShort>Warrior</HAR_NM_Backstory_A4.titleShort>
+	<HAR_NM_Backstory_A4.baseDescription>[PAWN_nameDef] is a consummate warrior with no qualms about killing.</HAR_NM_Backstory_A4.baseDescription>
+
+	<HAR_NM_Backstory_A5.title>Sexy Designer</HAR_NM_Backstory_A5.title>
+	<HAR_NM_Backstory_A5.titleShort>Designer</HAR_NM_Backstory_A5.titleShort>
+	<HAR_NM_Backstory_A5.baseDescription>[PAWN_nameDef] is a designed with a plethora of ideas and finely honed art skills.</HAR_NM_Backstory_A5.baseDescription>
+
+	<HAR_NM_Backstory_A6.title>Mountain Hikikomori</HAR_NM_Backstory_A6.title>
+	<HAR_NM_Backstory_A6.titleShort>Hikikomori</HAR_NM_Backstory_A6.titleShort>
+	<HAR_NM_Backstory_A6.baseDescription>[PAWN_nameDef] would much rather dig holes than interact with people. Today [PAWN_pronoun] will continue to mine for ore.</HAR_NM_Backstory_A6.baseDescription>
+
+	<HAR_NM_Backstory_A7.title>Night Maid</HAR_NM_Backstory_A7.title>
+	<HAR_NM_Backstory_A7.titleShort>Maid</HAR_NM_Backstory_A7.titleShort>
+	<HAR_NM_Backstory_A7.baseDescription>[PAWN_nameDef] serves a famous and powerful person as a maid. Cooking is her specialty.</HAR_NM_Backstory_A7.baseDescription>
+
+	<HAR_NM_Backstory_A8.title>Beauty Artist</HAR_NM_Backstory_A8.title>
+	<HAR_NM_Backstory_A8.titleShort>Artist</HAR_NM_Backstory_A8.titleShort>
+	<HAR_NM_Backstory_A8.baseDescription>[PAWN_nameDef] is an artist of many works. The type of art depends on sensitivity.</HAR_NM_Backstory_A8.baseDescription>
+
+	<HAR_NM_Backstory_A9.title>Demon Professor</HAR_NM_Backstory_A9.title>
+	<HAR_NM_Backstory_A9.titleShort>Professor</HAR_NM_Backstory_A9.titleShort>
+	<HAR_NM_Backstory_A9.baseDescription>[PAWN_nameDef] writes eccentric theses on demonic ideas. Surprisingly, they're highly regarded.</HAR_NM_Backstory_A9.baseDescription>
+
+	<HAR_NM_Backstory_A10.title>Popular Ordinary Girl</HAR_NM_Backstory_A10.title>
+	<HAR_NM_Backstory_A10.titleShort>Ordinary Girl</HAR_NM_Backstory_A10.titleShort>
+	<HAR_NM_Backstory_A10.baseDescription>[PAWN_nameDef] is an ordinary girl, but it seems she's very popular amongst the opposite sex.</HAR_NM_Backstory_A10.baseDescription>
+
+	<HAR_NM_Backstory_A11.title>Dreaming Beastmaster</HAR_NM_Backstory_A11.title>
+	<HAR_NM_Backstory_A11.titleShort>Beastmaster</HAR_NM_Backstory_A11.titleShort>
+	<HAR_NM_Backstory_A11.baseDescription>[PAWN_nameDef] dreams of taming beasts from all over the world - but beware Mother Nature's wonders...</HAR_NM_Backstory_A11.baseDescription>
+
+	<HAR_NM_Backstory_A12.title>Nightmare in White</HAR_NM_Backstory_A12.title>
+	<HAR_NM_Backstory_A12.titleShort>Nurse</HAR_NM_Backstory_A12.titleShort>
+	<HAR_NM_Backstory_A12.baseDescription>[PAWN_nameDef] is an expert nurse. Making mistakes once in a while simply adds to her charm...</HAR_NM_Backstory_A12.baseDescription>
+
+	<HAR_NM_Backstory_A90.title>Merchant of Nightmares</HAR_NM_Backstory_A90.title>
+	<HAR_NM_Backstory_A90.titleShort>Merchant</HAR_NM_Backstory_A90.titleShort>
+	<HAR_NM_Backstory_A90.baseDescription>[PAWN_nameDef]</HAR_NM_Backstory_A90.baseDescription>
+
+</LanguageData>

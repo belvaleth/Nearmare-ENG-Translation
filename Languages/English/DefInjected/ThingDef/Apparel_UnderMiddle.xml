@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<!-- ■Ｔシャツ -->
+	<HAR_NM_Tshirt.label>T-shirt (Nearmare)</HAR_NM_Tshirt.label>
+	<HAR_NM_Tshirt.description>A T-shirt designed exclusively for Nearmare. It's eerily similar to that worn by humans.</HAR_NM_Tshirt.description>
+
+	<!-- ■学生服 -->
+	<HAR_NM_Sc_Uniform.label>School Uniform (Nearmare)</HAR_NM_Sc_Uniform.label>
+	<HAR_NM_Sc_Uniform.description>A school uniform worn by Nearmare when in civilized space. It seems to be catching on... Makes you feel like a student, increasing learning speed.</HAR_NM_Sc_Uniform.description>
+
+	<!-- ■袖付きシャツ -->
+	<HAR_NM_SShirts.label>Long sleeved shirt (Nearmare)</HAR_NM_SShirts.label>
+	<HAR_NM_SShirts.description>A long sleeved shirt just like humans wear. Provides more protection than a T-shirt.</HAR_NM_SShirts.description>
+
+	<!-- ■深夜のドレス -->
+	<HAR_NM_BDress.label>Black Evening Gown (Nearmare)</HAR_NM_BDress.label>
+	<HAR_NM_BDress.description>A revealing jet black dress worn by Nearmare nobles. Intended for aristocratic use, it's not crafted with defense in mind.</HAR_NM_BDress.description>
+
+	<!-- ■白夜のドレス -->
+	<HAR_NM_WDress.label>White Evening Gown (Nearmare)</HAR_NM_WDress.label>
+	<HAR_NM_WDress.description>An elegant, pure white dress worn by Nearmare nobles. Intended for aristocratic use, it's not crafted with defense in mind.</HAR_NM_WDress.description>
+
+	<!-- ■チャイナ服 -->
+	<HAR_NM_China.label>China Clothes (Nearmare)</HAR_NM_China.label>
+	<HAR_NM_China.description>A traditional garment custom made for Nearmare. Easy to move in, increasing movement speed.</HAR_NM_China.description>
+
+	<!-- ■メイド服 -->
+	<HAR_NM_Maid.label>Maid Clothes (Nearmare)</HAR_NM_Maid.label>
+	<HAR_NM_Maid.description>Servant clothing worn by Nearmare to curry favour with powerful individuals. Feeling like a maid increases work efficiency.</HAR_NM_Maid.description>
+
+	<!-- ■夜魔の軽装 -->
+	<HAR_NM_DLArmor.label>Night Demon's Armor (Nearmare)</HAR_NM_DLArmor.label>
+	<HAR_NM_DLArmor.description>Nearmare battle gear. Quite revealing, but projects an energy field for defense.</HAR_NM_DLArmor.description>
+
+	<!-- ■夜魔の呪装 -->
+	<HAR_NM_KArmor.label>Cursed Armor (Nearmare)</HAR_NM_KArmor.label>
+	<HAR_NM_KArmor.description>A special equipment made for Nearmare, developed in an academy that studies them. It provides poor defense in exchange for heightened sense and mobility.</HAR_NM_KArmor.description>
+
+	<!-- ■着物 -->
+	<HAR_NM_Kimono.label>Kimono (Nearmare)</HAR_NM_Kimono.label>
+	<HAR_NM_Kimono.description>A traditional attire custom-made for Nearmare. It improves social impact for the price of movement speed.</HAR_NM_Kimono.description>
+
+	<!-- ■巫女服 -->
+	<HAR_NM_Miko.label>Shrine Maiden Dress (Nearmare)</HAR_NM_Miko.label>
+	<HAR_NM_Miko.description>A traditional attire custom-made for Nearmare. It is difficult to move in, but improves social impact and is effective in harsh temperatures.</HAR_NM_Miko.description>
+
+	<!-- ■一枚布 -->
+	<HAR_NM_Itimai.label>Wrapped Fabric (Nearmare)</HAR_NM_Itimai.label>
+	<HAR_NM_Itimai.description>A large cloth wrapped around the body, too primitive to call clothes.</HAR_NM_Itimai.description>
+
+	<!-- ■ブラウス -->
+	<HAR_NM_Blouse.label>Blouse (Nearmare)</HAR_NM_Blouse.label>
+	<HAR_NM_Blouse.description>A blouse that is arranged to look adorable for the Nearmare that prioritizes appearance.</HAR_NM_Blouse.description>
+
+	<!-- ■ライダースーツ -->
+	<HAR_NM_RiderS.label>Rider Suit (Nearmare)</HAR_NM_RiderS.label>
+	<HAR_NM_RiderS.description>A suit that eliminates useless decoration as much as possible, low defense and temperature resistance, but it is easy to move. Originally, it is said to be the clothes worn when riding a motorcycle.</HAR_NM_RiderS.description>
+
+	<!-- ■ナース服 -->
+	<HAR_NM_NurseS.label>Nurse Attire (Nearmare)</HAR_NM_NurseS.label>
+	<HAR_NM_NurseS.description>The costumes worn by women involved in medical care. It awakens a benevolent spirit that weaken combat-related abilities, but improve surgery-related abilities.</HAR_NM_NurseS.description>
+	
+</LanguageData>
