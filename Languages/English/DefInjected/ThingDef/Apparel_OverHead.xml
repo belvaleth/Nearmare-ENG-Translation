@@ -23,10 +23,10 @@
 
 	<!-- ■ティアラ(ニアメーア) -->
 	<HAR_NM_Tar.label>Tiara (Nearmare)</HAR_NM_Tar.label>
-	<HAR_NM_Tar.description>A crown worn by nobles or royalty.</HAR_NM_Tar.description>
+	<HAR_NM_Tar.description>A crown worn by nobility.</HAR_NM_Tar.description>
 
 	<!-- ■呪装の兜(ニアメーア) -->
-	<HAR_NM_HCArmor.label>Enchanted Helmet (Nearmare)</HAR_NM_HCArmor.label>
-	<HAR_NM_HCArmor.description>A helmet that enhances the wearer's senses and provides more accurate movements when in close combat.</HAR_NM_HCArmor.description>
+	<HAR_NM_HCArmor.label>Cursed Helmet (Nearmare)</HAR_NM_HCArmor.label>
+	<HAR_NM_HCArmor.description>A helmet that enhances the wearer's senses, allowing for more precise movements.</HAR_NM_HCArmor.description>
 	
 </LanguageData>

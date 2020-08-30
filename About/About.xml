@@ -6,7 +6,13 @@
   <supportedVersions>
     <li>1.2</li>
   </supportedVersions>
-  <description>An English translation patch for Nearmare. Most of the translations were done by Belvaleth, I only added some missing ones.</description>
+  <description>
+    An English translation patch for the excellent Nearmare Race mod by Ayameduki.
+    
+    Mod structure by Nif
+    Translations by Belvaleth
+    Development by Ayameduki
+  </description>
   <modDependencies>
     <li>
         <packageId>Ayameduki.HARNearmare</packageId>
