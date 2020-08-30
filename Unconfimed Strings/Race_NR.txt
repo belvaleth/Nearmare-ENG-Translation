@@ -1,0 +1,13 @@
+ナイトパレード(自動召喚)
+ONにした場合、このキャラクターが徴兵状態かつ周囲に敵対キャラクターがいると眷属が自動召喚されます。眷属のLv・召喚数は「人工種族」のLvによって変動し再召喚には2日のクールタイムが発生します。
+
+Night Parade (Auto)
+If set to "ON", the user will automatically summon if a hostile is within the vicinity. The level and number of summoned servants is dependent to the level of "Artificial Race". A cooldown of 2 days is required to summon again.
+
+----
+
+ナイトパレード(任意召喚)
+眷属を任意召喚します。眷属のLv・召喚数は「人工種族」のLvによって変動し再召喚には2日のクールタイムが発生します。
+
+Night Parade
+Summons a servant. The level and number of summoned servants is dependent to the level of "Artificial Race". A cooldown of 2 days is required to summon again.
