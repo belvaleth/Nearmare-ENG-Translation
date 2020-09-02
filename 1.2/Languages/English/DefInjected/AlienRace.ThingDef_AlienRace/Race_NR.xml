@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HAR_Nearmaere.label>Nearmare</HAR_Nearmaere.label>
+	<HAR_Nearmaere.description>Nearmare are an artificial race. They are genetically engineered to always be female in order to keep their population under control. They were originally intended to be utilized as weapons using their mental interference abilities, but their low physical endurance made them unsuitable for the task. After escaping, some assimilated into other cultures, while others banded together and founded small villages in secret.\nNearmore can use special weapons to focus their psychic attacks. They can also summon ghostly retainers. However, they are physically weak, so they perform best alongside other races.</HAR_Nearmaere.description>
+	<HAR_Nearmaere.comps.1.AutoLabel>Night Parade (Auto)</HAR_Nearmaere.comps.1.AutoLabel>
+	<HAR_Nearmaere.comps.1.AutoDesc>If set to "ON", the user will automatically cast "Night Parade" while drafted if there are hostiles in the vicinity. The level and number of summoned creatures are dependent on the level of "Artificial Race". Cooldown: 2 days.</HAR_Nearmaere.comps.1.AutoDesc>
+	<HAR_Nearmaere.comps.1.CommandLabel>Night Parade</HAR_Nearmaere.comps.1.CommandLabel>
+	<HAR_Nearmaere.comps.1.CommandDesc>Summons otherworldly creatures to attack enemies. The level and number of summoned creatures are dependent on the level of "Artificial Race". Cooldown: 2 days..</HAR_Nearmaere.comps.1.CommandDesc>
+
+</LanguageData>

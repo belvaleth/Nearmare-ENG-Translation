@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HAR_Nearmaere_NPC_Trader.label>Nearmare Trader</HAR_Nearmaere_NPC_Trader.label>
+	<HAR_Nearmaere_NPC_Leader.label>Nearmare Leader</HAR_Nearmaere_NPC_Leader.label>
+	<HAR_Nearmaere_NPC_Resident.label>Nearmare Resident</HAR_Nearmaere_NPC_Resident.label>
+	<HAR_Nearmaere_NPC_gunner.label>Nearmare Gunner</HAR_Nearmaere_NPC_gunner.label>
+	<HAR_Nearmaere_NPC_Sniper.label>Nearmare Sniper</HAR_Nearmaere_NPC_Sniper.label>
+	<HAR_Nearmaere_NPC_Industrial.label>Nearmare Architect</HAR_Nearmaere_NPC_Industrial.label>
+	<HAR_Nearmaere_NPC_Grenade.label>Nearmare Grenadier</HAR_Nearmaere_NPC_Grenade.label>
+
+</LanguageData>
