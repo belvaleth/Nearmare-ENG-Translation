@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ■軽装の兜(ニアメーア) -->
+	<HAR_NM_HArmor.label>Light Helm (Nearmare)</HAR_NM_HArmor.label>
+	<HAR_NM_HArmor.description>Nearmare combat headpiece. Provides more defense than the design would imply due to a special protective coating.</HAR_NM_HArmor.description>
+	
+	<!-- ■メイドカチューシャ(ニアメーア) -->
+	<HAR_NM_MCt.label>Maid Hairband (Nearmare)</HAR_NM_MCt.label>
+	<HAR_NM_MCt.description>A maid hairband for Nearmare. For some reason, it make them more efficient.</HAR_NM_MCt.description>
+
+	<!-- ■花飾り(ニアメーア) -->
+	<HAR_NM_MHK.label>Floral Accessory (Nearmare)</HAR_NM_MHK.label>
+	<HAR_NM_MHK.description>A colorful floral accessory for Nearmare.</HAR_NM_MHK.description>
+
+	<!-- ■カチューシャ(ニアメーア) -->
+	<HAR_NM_Cts.label>Hairband (Nearmare)</HAR_NM_Cts.label>
+	<HAR_NM_Cts.description>An ordinary hairband. Doesn't stand out.</HAR_NM_Cts.description>
+
+	<!-- ■リボン(ニアメーア) -->
+	<HAR_NM_MRbn.label>Ribbon (Nearmare)</HAR_NM_MRbn.label>
+	<HAR_NM_MRbn.description>A lovely ribbon. Emphasizes cuteness.</HAR_NM_MRbn.description>
+
+	<!-- ■ティアラ(ニアメーア) -->
+	<HAR_NM_Tar.label>Tiara (Nearmare)</HAR_NM_Tar.label>
+	<HAR_NM_Tar.description>A crown worn by nobility.</HAR_NM_Tar.description>
+
+	<!-- ■呪装の兜(ニアメーア) -->
+	<HAR_NM_HCArmor.label>Cursed Helmet (Nearmare)</HAR_NM_HCArmor.label>
+	<HAR_NM_HCArmor.description>A helmet that enhances the wearer's senses, allowing for more precise movements.</HAR_NM_HCArmor.description>
+	
+</LanguageData>

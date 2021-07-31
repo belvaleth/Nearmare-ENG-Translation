@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Geist_Knife.label>Binding Blade『Geist』</Geist_Knife.label>
+	<Geist_Knife.description>A throwing knife powered by the hallucinatory abilities of the Nearmore. Afflicted targets have their movement speed reduced.</Geist_Knife.description>
+	<Geist_Knife_Projectile.label>Binding Blade『Geist』</Geist_Knife_Projectile.label>
+
+	<Larva_SKnife.label>Haunted Blade『Larva』</Larva_SKnife.label>
+	<Larva_SKnife.description>An improved version of the Geist, this weapon features a high performance firing mechanism, firing cursed blades with high accuracy.</Larva_SKnife.description>
+	<Larva_SKnife_Projectile.label>Haunted Blade『Larva』</Larva_SKnife_Projectile.label>
+
+	<Rugeiyu_Pila.label>Demon Spear『Lugae』</Rugeiyu_Pila.label>
+	<Rugeiyu_Pila.description>A Nearmore hullucinatory wepaon that fires bursts of 5 spears at the target.</Rugeiyu_Pila.description>
+	<Rugeiyu_Pilum_Thrown.label>Demon Spear『Lugae』</Rugeiyu_Pilum_Thrown.label>
+
+	<Nearmaere_WildHunt.label>Dream Wand『Wild Hunt』</Nearmaere_WildHunt.label>
+	<Nearmaere_WildHunt.description>A focus for the mental abilities of the Nearmore, the Wild Hunt can brainwash enemies from a distance. While it doesn't cause much damage itself, it's true value is in its ability to make targets attack their own allies. It takes some time to fire, so aiming can be difficult.</Nearmaere_WildHunt.description>
+	<Nearmaere_WildHunt_B.label>Dream Wand『Wild Hunt』</Nearmaere_WildHunt_B.label>
+
+</LanguageData>

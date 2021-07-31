@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HAR_NM_R_Weapon_A.label>Hallucinatory Weapons Research I</HAR_NM_R_Weapon_A.label>
+	<HAR_NM_R_Weapon_A.description>Create hallucinatory weapons powered by the mental abilities of the Nearmare.</HAR_NM_R_Weapon_A.description>
+
+	<HAR_NM_R_Weapon_B.label>Hallucinatory Weapons Research II</HAR_NM_R_Weapon_B.label>
+	<HAR_NM_R_Weapon_B.description>Create more powerful hallucinatory weapons that better use the mental abilities of the Nearmare.</HAR_NM_R_Weapon_B.description>
+
+	<HAR_NM_R_Weapon_C.label>Hallucinatory Weapons Research III</HAR_NM_R_Weapon_C.label>
+	<HAR_NM_R_Weapon_C.description>Create incredibly destructive hallucinatory weapons that use the mental abilities of the Nearmare to their fullest.</HAR_NM_R_Weapon_C.description>
+
+</LanguageData>

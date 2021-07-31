@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Nearmaere_P_Faction.label>Hidden Village of Nearmare</Nearmaere_P_Faction.label>
+	<Nearmaere_P_Faction.description>A village where Nearmare gather and live in peace.</Nearmaere_P_Faction.description>
+	<Nearmaere_P_Faction.pawnSingular>Nearmare</Nearmaere_P_Faction.pawnSingular>
+	<Nearmaere_P_Faction.pawnsPlural>Nearmare</Nearmaere_P_Faction.pawnsPlural>
+
+	<Nearmaere_Faction_NPC.label>Nearmare Faction</Nearmaere_Faction_NPC.label>
+	<Nearmaere_Faction_NPC.description>An unusual society of other races mixed with Nearmare.</Nearmaere_Faction_NPC.description>
+	<Nearmaere_Faction_NPC.pawnSingular>Nearmare</Nearmaere_Faction_NPC.pawnSingular>
+	<Nearmaere_Faction_NPC.pawnsPlural>Nearmare</Nearmaere_Faction_NPC.pawnsPlural>
+	<Nearmaere_Faction_NPC.fixedName>Nightdemon Sect</Nearmaere_Faction_NPC.fixedName>
+	
+</LanguageData>

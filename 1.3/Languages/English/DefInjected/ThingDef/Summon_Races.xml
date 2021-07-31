@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<!--NightStalker-->
+	<NM_M_NightStalker.label>Lv 1 Nightstalker</NM_M_NightStalker.label>
+	<NM_M_NightStalker.description>A relative of the Nearmare. Nightstalkers are inferior to Wargs in a straight fight. However, they are quick-witted and agile, making escape difficult. Their claws and fangs are venomous, so even if their opponent is victorious, their lives are still in danger.</NM_M_NightStalker.description>
+
+	<NM_M_NightStalker_b.label>Lv 2 Nightstalker</NM_M_NightStalker_b.label>
+	<NM_M_NightStalker_b.description>A relative of the Nearmare. Nightstalkers are inferior to Wargs in a straight fight. However, they are quick-witted and agile, making escape difficult. Their claws and fangs are venomous, so even if their opponent is victorious, their lives are still in danger.</NM_M_NightStalker_b.description>
+
+	<NM_M_NightStalker_c.label>Lv 3 Nightstalker</NM_M_NightStalker_c.label>
+	<NM_M_NightStalker_c.description>A relative of the Nearmare. Nightstalkers are inferior to Wargs in a straight fight. However, they are quick-witted and agile, making escape difficult. Their claws and fangs are venomous, so even if their opponent is victorious, their lives are still in danger.</NM_M_NightStalker_c.description>
+
+	<NM_M_NightStalker_d.label>Lv 4 Nightstalker</NM_M_NightStalker_d.label>
+	<NM_M_NightStalker_d.description>A relative of the Nearmare. Nightstalkers are inferior to Wargs in a straight fight. However, they are quick-witted and agile, making escape difficult. Their claws and fangs are venomous, so even if their opponent is victorious, their lives are still in danger.</NM_M_NightStalker_d.description>
+
+	<NM_M_NightStalker_e.label>Lv 5 Nightstalker</NM_M_NightStalker_e.label>
+	<NM_M_NightStalker_e.description>A relative of the Nearmare. Nightstalkers are inferior to Wargs in a straight fight. However, they are quick-witted and agile, making escape difficult. Their claws and fangs are venomous, so even if their opponent is victorious, their lives are still in danger.</NM_M_NightStalker_e.description>
+
+	<!--NightGaunts-->
+	<NM_M_NightGaunts.label>Lv 1 Nightgaunt</NM_M_NightGaunts.label>
+	<NM_M_NightGaunts.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts.description>
+
+	<NM_M_NightGaunts_b.label>Lv 2 Nightgaunt</NM_M_NightGaunts_b.label>
+	<NM_M_NightGaunts_b.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_b.description>
+
+	<NM_M_NightGaunts_c.label>Lv 3 Nightgaunt</NM_M_NightGaunts_c.label>
+	<NM_M_NightGaunts_c.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_c.description>
+
+	<NM_M_NightGaunts_d.label>Lv 4 Nightgaunt</NM_M_NightGaunts_d.label>
+	<NM_M_NightGaunts_d.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_d.description>
+
+	<NM_M_NightGaunts_e.label>Lv 5 Nightgaunt</NM_M_NightGaunts_e.label>
+	<NM_M_NightGaunts_e.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_e.description>
+
+	<!--Nearmare-->
+	<NM_M_Nearmare.label>Lv 1 Nightmare</NM_M_Nearmare.label>
+	<NM_M_Nearmare.description>A relative of the Nearmare. Nightmares pose a great threat. A single blow from this huge creature can end any conflict in an instant.</NM_M_Nearmare.description>
+
+	<!--Nightmare-->
+	<NM_M_Nightmare.label>Lv 1 Nightmare</NM_M_Nightmare.label>
+	<NM_M_Nightmare.description>A relative of the Nearmare. Nightmares pose a great threat. A single blow from this huge creature can end any conflict in an instant.</NM_M_Nightmare.description>
+
+	<NM_M_Nightmare_b.label>Lv 2 Nightmare</NM_M_Nightmare_b.label>
+	<NM_M_Nightmare_b.description>A relative of the Nearmare. Nightmares pose a great threat. A single blow from this huge creature can end any conflict in an instant.</NM_M_Nightmare_b.description>
+
+	<NM_M_Nightmare_c.label>Lv 3 Nightmare</NM_M_Nightmare_c.label>
+	<NM_M_Nightmare_c.description>A relative of the Nearmare. Nightmares pose a great threat. A single blow from this huge creature can end any conflict in an instant.</NM_M_Nightmare_c.description>
+
+	<NM_M_Nightmare_d.label>Lv 4 Nightmare</NM_M_Nightmare_d.label>
+	<NM_M_Nightmare_d.description>A relative of the Nearmare. Nightmares pose a great threat. A single blow from this huge creature can end any conflict in an instant.</NM_M_Nightmare_d.description>
+
+	<NM_M_Nightmare_e.label>Lv 5 Nightmare</NM_M_Nightmare_e.label>
+	<NM_M_Nightmare_e.description>A relative of the Nearmare. Nightmares pose a great threat. A single blow from this huge creature can end any conflict in an instant.</NM_M_Nightmare_e.description>
+
+</LanguageData>

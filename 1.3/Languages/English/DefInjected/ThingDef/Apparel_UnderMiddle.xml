@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<!-- ■Ｔシャツ -->
+	<HAR_NM_Tshirt.label>T-shirt (Nearmare)</HAR_NM_Tshirt.label>
+	<HAR_NM_Tshirt.description>A T-shirt designed exclusively for Nearmare. Similar to that worn by humans.</HAR_NM_Tshirt.description>
+
+	<!-- ■学生服 -->
+	<HAR_NM_Sc_Uniform.label>School Uniform (Nearmare)</HAR_NM_Sc_Uniform.label>
+	<HAR_NM_Sc_Uniform.description>A school uniform worn by Nearmare when in civilized space. It seems to be catching on... Makes you feel like a student, increasing learning speed.</HAR_NM_Sc_Uniform.description>
+
+	<!-- ■袖付きシャツ -->
+	<HAR_NM_SShirts.label>Long sleeved shirt (Nearmare)</HAR_NM_SShirts.label>
+	<HAR_NM_SShirts.description>A long sleeved shirt just like humans wear. Provides more protection than a T-shirt.</HAR_NM_SShirts.description>
+
+	<!-- ■深夜のドレス -->
+	<HAR_NM_BDress.label>Black Evening Gown (Nearmare)</HAR_NM_BDress.label>
+	<HAR_NM_BDress.description>A revealing jet black dress worn by Nearmare nobles. Intended for the aristocracy, it's not crafted with defense in mind.</HAR_NM_BDress.description>
+
+	<!-- ■白夜のドレス -->
+	<HAR_NM_WDress.label>White Evening Gown (Nearmare)</HAR_NM_WDress.label>
+	<HAR_NM_WDress.description>An elegant, pure white dress worn by Nearmare nobles. Intended for the aristocracy, it's not crafted with defense in mind.</HAR_NM_WDress.description>
+
+	<!-- ■チャイナ服 -->
+	<HAR_NM_China.label>Cheongsam (Nearmare)</HAR_NM_China.label>
+	<HAR_NM_China.description>A traditional garment custom made for Nearmare. Easy to move in, increasing movement speed.</HAR_NM_China.description>
+
+	<!-- ■メイド服 -->
+	<HAR_NM_Maid.label>Maid Clothes (Nearmare)</HAR_NM_Maid.label>
+	<HAR_NM_Maid.description>Servant clothing worn by Nearmare to curry favour with powerful individuals. Feeling like a maid increases work efficiency.</HAR_NM_Maid.description>
+
+	<!-- ■夜魔の軽装 -->
+	<HAR_NM_DLArmor.label>Night Demon's Light Armor (Nearmare)</HAR_NM_DLArmor.label>
+	<HAR_NM_DLArmor.description>Nearmare battle gear. Quite revealing, but projects an energy field for defense.</HAR_NM_DLArmor.description>
+
+	<!-- ■夜魔の呪装 -->
+	<HAR_NM_KArmor.label>Night Demon's Cursed Armor (Nearmare)</HAR_NM_KArmor.label><!-- Part of me wonders if this is intended to be Night Demon -> Nightmare -> Nearmare pun-->
+	<HAR_NM_KArmor.description>A special equipment made for Nearmare, developed by a sect that used to study them. It provides poor defense, but enhances the senses, allowing for more precise movements.</HAR_NM_KArmor.description>
+
+	<!-- ■着物 -->
+	<HAR_NM_Kimono.label>Kimono (Nearmare)</HAR_NM_Kimono.label>
+	<HAR_NM_Kimono.description>Traditional attire custom-made for Nearmare. Difficult to move in, but such elegant attire makes a good impression during diplomacy.</HAR_NM_Kimono.description>
+
+	<!-- ■巫女服 -->
+	<HAR_NM_Miko.label>Shrine Maiden Dress (Nearmare)</HAR_NM_Miko.label>
+	<HAR_NM_Miko.description>Traditional attire custom-made for Nearmare. It is difficult to move in, but makes a good impression and is comfortable in a variety of climates.</HAR_NM_Miko.description>
+
+	<!-- ■一枚布 -->
+	<HAR_NM_Itimai.label>Wrapped Fabric (Nearmare)</HAR_NM_Itimai.label>
+	<HAR_NM_Itimai.description>A single large piece of cloth wrapped around the body, too primitive to call clothing.</HAR_NM_Itimai.description>
+
+	<!-- ■ブラウス -->
+	<HAR_NM_Blouse.label>Blouse (Nearmare)</HAR_NM_Blouse.label>
+	<HAR_NM_Blouse.description>A lovely blouse for fashion-conscious Nearmare. Easy to make and comfortable to wear.</HAR_NM_Blouse.description>
+
+	<!-- ■ライダースーツ -->
+	<HAR_NM_RiderS.label>Riding Suit (Nearmare)</HAR_NM_RiderS.label>
+	<HAR_NM_RiderS.description>A strictly functional riding suit, eschewing unnecessary ornamentation. Provides minimal protection from both attacks and weather, but is easy to move in. Originally worn by motorcycle riders.</HAR_NM_RiderS.description>
+
+	<!-- ■ナース服 -->
+	<HAR_NM_NurseS.label>Nurse Attire (Nearmare)</HAR_NM_NurseS.label>
+	<HAR_NM_NurseS.description>The costumes worn by women involved in medical care. It inspires benevolent intentions in those who wear it, lowering combat-related abilities while improving surgery-related abilities.</HAR_NM_NurseS.description>
+	
+</LanguageData>
