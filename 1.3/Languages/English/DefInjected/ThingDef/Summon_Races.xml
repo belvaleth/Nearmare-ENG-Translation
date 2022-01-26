@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
+
 	<!--NightStalker-->
 	<NM_M_NightStalker.label>Lv 1 Nightstalker</NM_M_NightStalker.label>
 	<NM_M_NightStalker.description>A relative of the Nearmare. Nightstalkers are inferior to Wargs in a straight fight. However, they are quick-witted and agile, making escape difficult. Their claws and fangs are venomous, so even if their opponent is victorious, their lives are still in danger.</NM_M_NightStalker.description>
@@ -19,19 +19,19 @@
 
 	<!--NightGaunts-->
 	<NM_M_NightGaunts.label>Lv 1 Nightgaunt</NM_M_NightGaunts.label>
-	<NM_M_NightGaunts.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts.description>
+	<NM_M_NightGaunts.description>A relative of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts.description>
 
 	<NM_M_NightGaunts_b.label>Lv 2 Nightgaunt</NM_M_NightGaunts_b.label>
-	<NM_M_NightGaunts_b.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_b.description>
+	<NM_M_NightGaunts_b.description>A relative of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_b.description>
 
 	<NM_M_NightGaunts_c.label>Lv 3 Nightgaunt</NM_M_NightGaunts_c.label>
-	<NM_M_NightGaunts_c.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_c.description>
+	<NM_M_NightGaunts_c.description>A relative of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_c.description>
 
 	<NM_M_NightGaunts_d.label>Lv 4 Nightgaunt</NM_M_NightGaunts_d.label>
-	<NM_M_NightGaunts_d.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_d.description>
+	<NM_M_NightGaunts_d.description>A relative of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_d.description>
 
 	<NM_M_NightGaunts_e.label>Lv 5 Nightgaunt</NM_M_NightGaunts_e.label>
-	<NM_M_NightGaunts_e.description>A relatives of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_e.description>
+	<NM_M_NightGaunts_e.description>A relative of the Nearmare. Nightgaunts have the ability to cause sudden temperature changes in their tentacles. Any creature pierced by them can find their body heat rapidly stolen, or heated to the point of ignition.</NM_M_NightGaunts_e.description>
 
 	<!--Nearmare-->
 	<NM_M_Nearmare.label>Lv 1 Nightmare</NM_M_Nearmare.label>
@@ -52,5 +52,14 @@
 
 	<NM_M_Nightmare_e.label>Lv 5 Nightmare</NM_M_Nightmare_e.label>
 	<NM_M_Nightmare_e.description>A relative of the Nearmare. Nightmares pose a great threat. A single blow from this huge creature can end any conflict in an instant.</NM_M_Nightmare_e.description>
+
+	<!--Adherent-->
+	<HAR_NM_M_KUT.label>Adherent</HAR_NM_M_KUT.label>
+	<HAR_NM_M_KUT.description>A manifestation of the Nearmares' faith in their Creator. While less aggressive than other summoned creatures, they are tougher and can maintain their physical forms for three days. \n Adherents have a chance to cause short circuits in machine lifeforms on hit - a manifestation of their hatred for the enemies of their Creator.</HAR_NM_M_KUT.description>
+
+	<HAR_NM_M_KUT_b.label>Adherent</HAR_NM_M_KUT_b.label>
+	<HAR_NM_M_KUT_b.description>>A manifestation of the Nearmares' faith in their Creator. While less aggressive than other summoned creatures, they are tougher and can maintain their physical forms for three days. \n Adherents have a chance to cause short circuits in machine lifeforms on hit - a manifestation of their hatred for the enemies of their Creator.</HAR_NM_M_KUT_b.description>
+
+
 
 </LanguageData>

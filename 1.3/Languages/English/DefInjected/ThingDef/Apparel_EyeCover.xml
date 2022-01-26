@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<HAR_NM_A_EyeCover_a.label>Trinity Halo</HAR_NM_A_EyeCover_a.label>
+	<!--Downside is 足取りも悪くなる  which can mean several things. Requires in game testing to confirm speed penalty-->
+	<HAR_NM_A_EyeCover_a.description>A circlet worn by Nearmare of the Church of Areteia. It is said to represent the three aspects of the Creator: Knowledge, Skill, and Spirit. By improving the brain's ability to process information, it greatly improves marksmanship. However, wearers have an increased tendancy to become lost in thought, slowing their movement speed.</HAR_NM_A_EyeCover_a.description>
+
+</LanguageData>

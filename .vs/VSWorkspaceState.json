@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\About",
+    "\\Languages",
+    "\\Languages\\English",
+    "\\Languages\\English\\DefInjected",
+    "\\Languages\\English\\DefInjected\\AlienRace.ThingDef_AlienRace",
+    "\\Languages\\English\\DefInjected\\ThingDef",
+    "\\Unconfimed Strings"
   ],
   "PreviewInSolutionExplorer": false
 }

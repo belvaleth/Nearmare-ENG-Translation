@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Nearmaere_P_Faction.label>Hidden Village of Nearmare</Nearmaere_P_Faction.label>
+	<Nearmaere_P_Faction.label>Hidden Nearmare Village</Nearmaere_P_Faction.label>
 	<Nearmaere_P_Faction.description>A village where Nearmare gather and live in peace.</Nearmaere_P_Faction.description>
 	<Nearmaere_P_Faction.pawnSingular>Nearmare</Nearmaere_P_Faction.pawnSingular>
 	<Nearmaere_P_Faction.pawnsPlural>Nearmare</Nearmaere_P_Faction.pawnsPlural>
@@ -11,5 +11,25 @@
 	<Nearmaere_Faction_NPC.pawnSingular>Nearmare</Nearmaere_Faction_NPC.pawnSingular>
 	<Nearmaere_Faction_NPC.pawnsPlural>Nearmare</Nearmaere_Faction_NPC.pawnsPlural>
 	<Nearmaere_Faction_NPC.fixedName>Nightdemon Sect</Nearmaere_Faction_NPC.fixedName>
-	
+
+
+
+	<!--レイスワンズ is anyone's guess. Lace Ones? Ray Swans?-->
+	<Nearmaere_Faction_NPC_b.label>Lace Ones</Nearmaere_Faction_NPC_b.label>
+	<Nearmaere_Faction_NPC_b.description>A faction of Nearmare at war with those who have abandoned the Creator. They assume anyone outside their faction is an enemy. However, it is possible with time and patience to warm them up to you.</Nearmaere_Faction_NPC_b.description>
+	<Nearmaere_Faction_NPC_b.pawnSingular>Nearmare</Nearmaere_Faction_NPC_b.pawnSingular>
+	<Nearmaere_Faction_NPC_b.pawnsPlural>Nearmare</Nearmaere_Faction_NPC_b.pawnsPlural>
+	<Nearmaere_Faction_NPC_b.fixedName>Lace Ones</Nearmaere_Faction_NPC_b.fixedName>
+
+
+	<Nearmaere_Faction_NPC_c.label>Church of Areteia</Nearmaere_Faction_NPC_c.label>
+	<Nearmaere_Faction_NPC_c.description>The Church of Areteia worships their Creator. It is the largest faith in the universe amongst artificial races. From the Creator they have inherited his Knowledge. Their creed is threefold: \n Spread the word of the Creator. \n Destroy those who rebel against the Creator. \n Improve oneself every day. \n They are open to cordial relations with all except for mechanical lifeforms, whom they are sworn to destroy. \n They seek those who have inherited the Skill of the Creator.</Nearmaere_Faction_NPC_c.description>
+	<Nearmaere_Faction_NPC_c.pawnSingular>Nearmare</Nearmaere_Faction_NPC_c.pawnSingular>
+	<Nearmaere_Faction_NPC_c.pawnsPlural>Nearmare</Nearmaere_Faction_NPC_c.pawnsPlural>
+	<Nearmaere_Faction_NPC_c.fixedName>Church of Areteia</Nearmaere_Faction_NPC_c.fixedName>
+
 </LanguageData>
+
+
+
+

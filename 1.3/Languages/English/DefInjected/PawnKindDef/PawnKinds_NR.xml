@@ -9,4 +9,8 @@
 	<HAR_Nearmaere_NPC_Industrial.label>Nearmare Architect</HAR_Nearmaere_NPC_Industrial.label>
 	<HAR_Nearmaere_NPC_Grenade.label>Nearmare Grenadier</HAR_Nearmaere_NPC_Grenade.label>
 
+	<HAR_Nearmaere_NPC_Trader_b.label>Nearmare Trader</HAR_Nearmaere_NPC_Trader_b.label>
+	<HAR_Nearmaere_NPC_Leader_b.label>Nearmare Religious Leader</HAR_Nearmaere_NPC_Leader_b.label>
+	<HAR_Nearmaere_NPC_Resident_b.label>Nearmare Adherent</HAR_Nearmaere_NPC_Resident_b.label>
+
 </LanguageData>

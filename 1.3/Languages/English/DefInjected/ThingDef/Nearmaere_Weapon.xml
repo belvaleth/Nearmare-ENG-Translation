@@ -17,4 +17,10 @@
 	<Nearmaere_WildHunt.description>A focus for the mental abilities of the Nearmore, the Wild Hunt can brainwash enemies from a distance. While it doesn't cause much damage itself, it's true value is in its ability to make targets attack their own allies. It takes some time to fire, so aiming can be difficult.</Nearmaere_WildHunt.description>
 	<Nearmaere_WildHunt_B.label>Dream Wand『Wild Hunt』</Nearmaere_WildHunt_B.label>
 
+	<!--シェフェットレールガン  (Sheffet? Shefetto?)-->
+	<Gun_AssaultRifle_NM.label>Shefett Railgun</Gun_AssaultRifle_NM.label>
+	<Gun_AssaultRifle_NM.description>A railgun created by the Church of Areteia, inheritors of the Creator's Knowledge, in collaboration with those who inherited the Creator's Skill.\n By harnessing the summoning abilities of the Nearmare, it rapidly fires bullets containing nanomachines.\n While extremely destructive, its vicious recoil make it difficult to aim and handle.</Gun_AssaultRifle_NM.description>
+	<Bullet_AssaultRifle_NM.label>Shefett Railgun</Bullet_AssaultRifle_NM.label>
+
+
 </LanguageData>
