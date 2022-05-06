@@ -16,4 +16,9 @@
 	<Nearmaere_Artificial.label>Artificial Race</Nearmaere_Artificial.label>
 	<Nearmaere_Artificial.description>Nearmare are an artifically created race that specialize in mental attacks. They are resistant to mental attacks, but have decreased resistance to disease and are slow to develop immunity.</Nearmaere_Artificial.description>
 
+	<HAR_NM_Hediff_a.label>Ascension Nanomachines</HAR_NM_Hediff_a.label>
+	<HAR_NM_Hediff_a.description>Nanomachines contained in rounds fired from Shefett Railguns. \nHarmless until sufficiently accumulated in the body, they then cause death via multiple organ failure. Capabable of self-modification, ensuring efficacy against both biological and mechanical targets.</HAR_NM_Hediff_a.description>
+	<HAR_NM_Hediff_a.stages.0.label>Incubating</HAR_NM_Hediff_a.stages.0.label>
+	<HAR_NM_Hediff_a.stages.1.label>Ascension</HAR_NM_Hediff_a.stages.1.label>
+
 </LanguageData>

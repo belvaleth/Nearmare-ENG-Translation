@@ -69,10 +69,6 @@
 	<HAR_M_Nightmare_Kind_e.labelMale>Nightmare</HAR_M_Nightmare_Kind_e.labelMale>
 	<HAR_M_Nightmare_Kind_e.labelFemale>Nightmare</HAR_M_Nightmare_Kind_e.labelFemale>
 
-	<HAR_NM_M_KUT.label>Adherent</HAR_NM_M_KUT.label>
-	<HAR_NM_M_KUT.labelMale>Adherent</HAR_NM_M_KUT.labelMale>
-	<HAR_NM_M_KUT.labelFemale>Adherent</HAR_NM_M_KUT.labelFemale>
-
 	<HAR_M_KUT_Kind.label>Adherent</HAR_M_KUT_Kind.label>
 	<HAR_M_KUT_Kind.labelMale>Adherent</HAR_M_KUT_Kind.labelMale>
 	<HAR_M_KUT_Kind.labelFemale>Adherent</HAR_M_KUT_Kind.labelFemale>
