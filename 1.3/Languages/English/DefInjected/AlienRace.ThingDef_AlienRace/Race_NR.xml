@@ -10,11 +10,10 @@
 
 	<HAR_Nearmaere_b.label>Nearmare Devotee</HAR_Nearmaere_b.label>
 	<HAR_Nearmaere_b.description>A subspecies of Nearmare who, through faith, have altered their very nature. They are more susceptable to mental attacks, but their physical resilience has been honed by their long training.\n Their summoned creatures are empowered by their faith, granting them increased endurance.</HAR_Nearmaere_b.description>
+
 	<HAR_Nearmaere_b.comps.1.AutoLabel>Night Parade (Auto)</HAR_Nearmaere_b.comps.1.AutoLabel>
 	<HAR_Nearmaere_b.comps.1.AutoDesc>If set to "ON", the user will automatically cast "Night Parade" while drafted if there are hostiles in the vicinity. The level and number of summoned creatures are dependent on the level of "Artificial Race". Cooldown: 2 days.</HAR_Nearmaere_b.comps.1.AutoDesc>
 	<HAR_Nearmaere_b.comps.1.CommandLabel>Night Parade</HAR_Nearmaere_b.comps.1.CommandLabel>
 	<HAR_Nearmaere_b.comps.1.CommandDesc>Summons otherworldly creatures to attack enemies. The level and number of summoned creatures are dependent on the level of "Artificial Race". Cooldown: 2 days.</HAR_Nearmaere_b.comps.1.CommandDesc>
-
-
 
 </LanguageData>

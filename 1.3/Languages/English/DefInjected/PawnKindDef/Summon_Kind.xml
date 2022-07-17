@@ -2,79 +2,36 @@
 <LanguageData>
 
 	<!--NightStalker-->
+
 	<HAR_M_NightStalker_Kind.label>Lv 1 Nightstalker</HAR_M_NightStalker_Kind.label>
-	<HAR_M_NightStalker_Kind.labelMale>Nightstalker</HAR_M_NightStalker_Kind.labelMale>
-	<HAR_M_NightStalker_Kind.labelFemale>Nightstalker</HAR_M_NightStalker_Kind.labelFemale>
-
 	<HAR_M_NightStalker_Kind_b.label>Lv 2 Nightstalker</HAR_M_NightStalker_Kind_b.label>
-	<HAR_M_NightStalker_Kind_b.labelMale>Nightstalker</HAR_M_NightStalker_Kind_b.labelMale>
-	<HAR_M_NightStalker_Kind_b.labelFemale>Nightstalker</HAR_M_NightStalker_Kind_b.labelFemale>
-
 	<HAR_M_NightStalker_Kind_c.label>Lv 3 Nightstalker</HAR_M_NightStalker_Kind_c.label>
-	<HAR_M_NightStalker_Kind_c.labelMale>Nightstalker</HAR_M_NightStalker_Kind_c.labelMale>
-	<HAR_M_NightStalker_Kind_c.labelFemale>Nightstalker</HAR_M_NightStalker_Kind_c.labelFemale>
-
 	<HAR_M_NightStalker_Kind_d.label>Lv 4 Nightstalker</HAR_M_NightStalker_Kind_d.label>
-	<HAR_M_NightStalker_Kind_d.labelMale>Nightstalker</HAR_M_NightStalker_Kind_d.labelMale>
-	<HAR_M_NightStalker_Kind_d.labelFemale>Nightstalker</HAR_M_NightStalker_Kind_d.labelFemale>
-
 	<HAR_M_NightStalker_Kind_e.label>Lv 5 Nightstalker</HAR_M_NightStalker_Kind_e.label>
-	<HAR_M_NightStalker_Kind_e.labelMale>Nightstalker</HAR_M_NightStalker_Kind_e.labelMale>
-	<HAR_M_NightStalker_Kind_e.labelFemale>Nightstalker</HAR_M_NightStalker_Kind_e.labelFemale>
 
 	<!--NightGaunts-->
+
 	<HAR_M_NightGaunts_Kind.label>Lv 1 Nightgaunt</HAR_M_NightGaunts_Kind.label>
-	<HAR_M_NightGaunts_Kind.labelMale>Nightgaunt</HAR_M_NightGaunts_Kind.labelMale>
-	<HAR_M_NightGaunts_Kind.labelFemale>Nightgaunt</HAR_M_NightGaunts_Kind.labelFemale>
-
 	<HAR_M_NightGaunts_Kind_b.label>Lv 2 Nightgaunt</HAR_M_NightGaunts_Kind_b.label>
-	<HAR_M_NightGaunts_Kind_b.labelMale>Nightgaunt</HAR_M_NightGaunts_Kind_b.labelMale>
-	<HAR_M_NightGaunts_Kind_b.labelFemale>Nightgaunt</HAR_M_NightGaunts_Kind_b.labelFemale>
-
 	<HAR_M_NightGaunts_Kind_c.label>Lv 3 Nightgaunt</HAR_M_NightGaunts_Kind_c.label>
-	<HAR_M_NightGaunts_Kind_c.labelMale>Nightgaunt</HAR_M_NightGaunts_Kind_c.labelMale>
-	<HAR_M_NightGaunts_Kind_c.labelFemale>Nightgaunt</HAR_M_NightGaunts_Kind_c.labelFemale>
-
 	<HAR_M_NightGaunts_Kind_d.label>Lv 4 Nightgaunt</HAR_M_NightGaunts_Kind_d.label>
-	<HAR_M_NightGaunts_Kind_d.labelMale>Nightgaunt</HAR_M_NightGaunts_Kind_d.labelMale>
-	<HAR_M_NightGaunts_Kind_d.labelFemale>Nightgaunt</HAR_M_NightGaunts_Kind_d.labelFemale>
-
 	<HAR_M_NightGaunts_Kind_e.label>Lv 5 Nightgaunt</HAR_M_NightGaunts_Kind_e.label>
-	<HAR_M_NightGaunts_Kind_e.labelMale>Nightgaunt</HAR_M_NightGaunts_Kind_e.labelMale>
-	<HAR_M_NightGaunts_Kind_e.labelFemale>Nightgaunt</HAR_M_NightGaunts_Kind_e.labelFemale>
 
-	<!--Nearmare-->
+	<!--Nearmare(Nightmare Duplicate)-->
 	<HAR_M_Nearmare_Kind.label>Lv 1 Nightmare</HAR_M_Nearmare_Kind.label>
-	<HAR_M_Nearmare_Kind.labelMale>Nightmare</HAR_M_Nearmare_Kind.labelMale>
-	<HAR_M_Nearmare_Kind.labelFemale>Nightmare</HAR_M_Nearmare_Kind.labelFemale>
 
 	<!--Nightmare-->
+
 	<HAR_M_Nightmare_Kind.label>Lv 1 Nightmare</HAR_M_Nightmare_Kind.label>
-	<HAR_M_Nightmare_Kind.labelMale>Nightmare</HAR_M_Nightmare_Kind.labelMale>
-	<HAR_M_Nightmare_Kind.labelFemale>Nightmare</HAR_M_Nightmare_Kind.labelFemale>
-
 	<HAR_M_Nightmare_Kind_b.label>Lv 2 Nightmare</HAR_M_Nightmare_Kind_b.label>
-	<HAR_M_Nightmare_Kind_b.labelMale>Nightmare</HAR_M_Nightmare_Kind_b.labelMale>
-	<HAR_M_Nightmare_Kind_b.labelFemale>Nightmare</HAR_M_Nightmare_Kind_b.labelFemale>
-
 	<HAR_M_Nightmare_Kind_c.label>Lv 3 Nightmare</HAR_M_Nightmare_Kind_c.label>
-	<HAR_M_Nightmare_Kind_c.labelMale>Nightmare</HAR_M_Nightmare_Kind_c.labelMale>
-	<HAR_M_Nightmare_Kind_c.labelFemale>Nightmare</HAR_M_Nightmare_Kind_c.labelFemale>
-
 	<HAR_M_Nightmare_Kind_d.label>Lv 4 Nightmare</HAR_M_Nightmare_Kind_d.label>
-	<HAR_M_Nightmare_Kind_d.labelMale>Nightmare</HAR_M_Nightmare_Kind_d.labelMale>
-	<HAR_M_Nightmare_Kind_d.labelFemale>Nightmare</HAR_M_Nightmare_Kind_d.labelFemale>
-
 	<HAR_M_Nightmare_Kind_e.label>Lv 5 Nightmare</HAR_M_Nightmare_Kind_e.label>
-	<HAR_M_Nightmare_Kind_e.labelMale>Nightmare</HAR_M_Nightmare_Kind_e.labelMale>
-	<HAR_M_Nightmare_Kind_e.labelFemale>Nightmare</HAR_M_Nightmare_Kind_e.labelFemale>
+
+	<!--Adherent-->
 
 	<HAR_M_KUT_Kind.label>Adherent</HAR_M_KUT_Kind.label>
-	<HAR_M_KUT_Kind.labelMale>Adherent</HAR_M_KUT_Kind.labelMale>
-	<HAR_M_KUT_Kind.labelFemale>Adherent</HAR_M_KUT_Kind.labelFemale>
-
 	<HAR_M_KUT_Kind_b.label>Adherent</HAR_M_KUT_Kind_b.label>
-	<HAR_M_KUT_Kind_b.labelMale>Adherent</HAR_M_KUT_Kind_b.labelMale>
-	<HAR_M_KUT_Kind_b.labelFemale>Adherent</HAR_M_KUT_Kind_b.labelFemale>
+
 
 </LanguageData>
