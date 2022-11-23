@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--マシアフズロア // Mashiaf's Roar (NPC name?)-->
+	<HAR_NM_A_Belt_a.label>Mashiaf's Roar</HAR_NM_A_Belt_a.label>
+	<!--創造主の遺産 // Creator's Legacy (unsure if this is a proper noun...)-->
+	<HAR_NM_A_Belt_a.description>A shield used by Nearmare of the Church of Areteia. It incorporates systems which use the Creator's Legacy. By emulating the telepathic abilities of the Nearmare, it can automatically defend against incoming attacks. However, it dramatically reduces maneuverability.</HAR_NM_A_Belt_a.description>
+
+</LanguageData>

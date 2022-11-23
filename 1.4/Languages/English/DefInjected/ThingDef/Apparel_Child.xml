@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+    <Category_Aya_Race.label>Artificial Race Clothing</Category_Aya_Race.label>
+
+    <HTBench_HAR.label>Nearmare Sewing Machine</HTBench_HAR.label>
+    <HTBench_HAR.description>This sewing machine was designed by the Nearmare.</HTBench_HAR.description>
+
+    <Aya_Race_Ap_C_T_a.description>A shirt designed for children of artificial races. No special qualities.</Aya_Race_Ap_C_T_a.description>
+    <Aya_Race_Ap_C_T_a.label>Child's Shirt</Aya_Race_Ap_C_T_a.label>
+
+    <Aya_Race_Ap_C_T_b.description>A blouse designed for children of artificial races. No special qualities.</Aya_Race_Ap_C_T_b.description>
+    <Aya_Race_Ap_C_T_b.label>Child's Blouse</Aya_Race_Ap_C_T_b.label>
+
+    <Aya_Race_Ap_C_T_c.description>A wrapping consisting of a single piece of cloth. Designed for children of artificial races, it has no special qualities.</Aya_Race_Ap_C_T_c.description>
+    <Aya_Race_Ap_C_T_c.label>Child's Wrapping</Aya_Race_Ap_C_T_c.label>
+
+    <Aya_Race_Ap_C_T_d.description>A school uniform designed for children of artificial races. No special qualities.</Aya_Race_Ap_C_T_d.description>
+    <Aya_Race_Ap_C_T_d.label>Child's School Uniform</Aya_Race_Ap_C_T_d.label>
+
+</LanguageData>

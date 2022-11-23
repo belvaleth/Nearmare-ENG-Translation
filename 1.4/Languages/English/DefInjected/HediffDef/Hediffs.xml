@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hediff_Geist.label>Paralyze</Hediff_Geist.label>
+	<Hediff_Geist.description>The mental interference of the Nearmare causes a considerable decline in motor function due to distration.</Hediff_Geist.description>
+
+	<Hediff_Larva.label>Curse</Hediff_Larva.label>
+	<Hediff_Larva.description>The Nearmare's mental attack causes erratic behaviour and poor physical health.</Hediff_Larva.description>
+
+	<Hediff_Rugeiyu.label>Deep Sleep</Hediff_Rugeiyu.label>
+	<Hediff_Rugeiyu.description>The Nearmare's mental attack causes drowsiness in the target, resulting in unconsiousness.</Hediff_Rugeiyu.description>
+
+	<Hediff_Genocide.label>Berserk</Hediff_Genocide.label>
+	<Hediff_Genocide.description>The Nearmore's mental attack indiscriminately drives targets into a frenzy.</Hediff_Genocide.description>
+
+	<Nearmaere_Artificial.label>Artificial Race</Nearmaere_Artificial.label>
+	<Nearmaere_Artificial.description>Nearmare are an artifically created race that specialize in mental attacks. They are resistant to mental attacks, but have decreased resistance to disease and are slow to develop immunity.</Nearmaere_Artificial.description>
+
+	<HAR_NM_Hediff_a.label>Ascension Nanomachines</HAR_NM_Hediff_a.label>
+	<HAR_NM_Hediff_a.description>Nanomachines contained in rounds fired from Shefett Railguns. \nHarmless until sufficiently accumulated in the body, they then cause death via multiple organ failure. Capabable of self-modification, ensuring efficacy against both biological and mechanical targets.</HAR_NM_Hediff_a.description>
+	<HAR_NM_Hediff_a.stages.0.label>Incubating</HAR_NM_Hediff_a.stages.0.label>
+	<HAR_NM_Hediff_a.stages.1.label>Ascension</HAR_NM_Hediff_a.stages.1.label>
+
+</LanguageData>

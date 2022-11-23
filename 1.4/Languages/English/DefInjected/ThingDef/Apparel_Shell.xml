@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ■マント(ニアメーア) -->
+	<HAR_NM_Sh_K.label>Cloak (Nearmare)</HAR_NM_Sh_K.label>
+	<HAR_NM_Sh_K.description>A stab-proof, bulletproof garment for the fragile Nearmare。It's strong, but the wearer's fragility prevents them from trusting it too much.</HAR_NM_Sh_K.description>
+
+	<HAR_NM_Sh_Kb.label>Cape (Nearmare)</HAR_NM_Sh_Kb.label>
+	<HAR_NM_Sh_Kb.description>A stab-proof, bulletproof garment for the fragile Nearmare。It's strong, but the wearer's fragility prevents them from trusting it too much.</HAR_NM_Sh_Kb.description>
+
+	<HAR_NM_Sh_Kc.label>Coat (Nearmare)</HAR_NM_Sh_Kc.label>
+	<HAR_NM_Sh_Kc.description>A stab-proof, bulletproof garment for the fragile Nearmare。It's strong, but the wearer's fragility prevents them from trusting it too much.</HAR_NM_Sh_Kc.description>
+
+	<HAR_NM_Sh_Kd.label>Duster (Nearmare)</HAR_NM_Sh_Kd.label>
+	<HAR_NM_Sh_Kd.description>A stab-proof, bulletproof garment for the fragile Nearmare。It's strong, but the wearer's fragility prevents them from trusting it too much.</HAR_NM_Sh_Kd.description>
+
+	<HAR_NM_Sh_Ke.label>Duffel Coat(Nearmare)</HAR_NM_Sh_Ke.label>
+	<HAR_NM_Sh_Ke.description>A stab-proof, bulletproof garment for the fragile Nearmare。It's strong, but the wearer's fragility prevents them from trusting it too much.</HAR_NM_Sh_Ke.description>
+
+	<!-- ■羽織(ニアメーア) -->
+	<HAR_NM_Sh_Ho.label>Haori (Nearmare)</HAR_NM_Sh_Ho.label>
+	<HAR_NM_Sh_Ho.description>A stab-proof, bulletproof garment for the fragile Nearmare。It's strong, but the wearer's fragility prevents them from trusting it too much.</HAR_NM_Sh_Ho.description>
+
+	<!-- ■ショートマント(ニアメーア) -->
+	<HAR_NM_Sh_SKo.label>Mantle (Nearmare)</HAR_NM_Sh_SKo.label>
+	<HAR_NM_Sh_SKo.description>A stab-proof, bulletproof garment for the fragile Nearmare。It's strong, but the wearer's fragility prevents them from trusting it too much.</HAR_NM_Sh_SKo.description>
+
+	<!-- ■バリアコート(ニアメーア) -->
+	<HAR_NM_Sh_BKo.label>Barrier Coat (Nearmare)</HAR_NM_Sh_BKo.label>
+	<HAR_NM_Sh_BKo.description>Using the Nearmare's own energy, this coat generates a defensive barrier. However, it is easily damaged and provides no defense against heat or cold.</HAR_NM_Sh_BKo.description>
+</LanguageData>

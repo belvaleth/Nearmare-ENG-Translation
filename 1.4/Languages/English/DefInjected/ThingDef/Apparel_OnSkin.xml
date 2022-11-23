@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--■下着A-->
+	<HAR_NM_Os_P.label>Undergarment A (Nearmare)</HAR_NM_Os_P.label>
+	<HAR_NM_Os_P.description>Nearmares' preferred undergarments. Doesn't leave much to the imagination.</HAR_NM_Os_P.description>
+
+	<!--■下着B-->
+	<HAR_NM_Os_Pb.label>Undergarment B (Nearmare)</HAR_NM_Os_Pb.label>
+	<HAR_NM_Os_Pb.description>Nearmares' preferred undergarments. Doesn't leave much to the imagination.</HAR_NM_Os_Pb.description>
+
+	<!--■下着C-->
+	<HAR_NM_Os_Pc.label>Undergarment C (Nearmare)</HAR_NM_Os_Pc.label>
+	<HAR_NM_Os_Pc.description>Nearmares' preferred undergarments. Doesn't leave much to the imagination.</HAR_NM_Os_Pc.description>
+
+	<!--■下着D-->
+	<HAR_NM_Os_Pd.label>Undergarment D (Nearmare)</HAR_NM_Os_Pd.label>
+	<HAR_NM_Os_Pd.description>Nearmares' preferred undergarments. Doesn't leave much to the imagination.</HAR_NM_Os_Pd.description>
+
+	<!--■下着E-->
+	<HAR_NM_Os_Pe.label>Undergarment E (Nearmare)</HAR_NM_Os_Pe.label>
+	<HAR_NM_Os_Pe.description>Nearmares' preferred undergarments. Doesn't leave much to the imagination.</HAR_NM_Os_Pe.description>
+	
+</LanguageData>
